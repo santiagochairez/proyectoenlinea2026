@@ -6,4 +6,5 @@ que e estará evaluando constantemente
 
 1. creacion del repositorio
 2. creacion del Readme
-
+3. subir el sitio Eshopper
+4. personalizar encabezado
